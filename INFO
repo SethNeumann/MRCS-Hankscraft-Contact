@@ -1,7 +1,7 @@
 MRCS-Hankscraft-Contact
 designer: Seth Neumann, Allison Dendy
-fabricated: Pick one of   no
-fab_date: YYYY-MM
+fabricated: Pick one of   yes
+fab_date: 2023-01
 status: experimental
 publish: yes
 tags: [MRCS, SPCoast, eagle, Dendy, Turnout_Control]
