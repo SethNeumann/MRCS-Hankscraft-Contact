@@ -2921,13 +2921,13 @@ new: Attribute TP_SIGNAL_NAME&lt;br&gt;
 <part name="D1" library="SPCoast" deviceset="DIODE" device="PTH" value="1N4001"/>
 <part name="GND1" library="SPCoast" deviceset="GND" device=""/>
 <part name="GND2" library="SPCoast" deviceset="GND" device=""/>
-<part name="COM" library="testpad" deviceset="TP" device="PAD1-17"/>
-<part name="NO" library="testpad" deviceset="TP" device="PAD1-17"/>
+<part name="COM" library="testpad" deviceset="TP" device="PAD1-13" value="TPPAD1-13"/>
+<part name="NO" library="testpad" deviceset="TP" device="PAD1-13" value="TPPAD1-13"/>
 </parts>
 <sheets>
 <sheet>
 <plain>
-<text x="240.03" y="12.7" size="2.1844" layer="97">1.1</text>
+<text x="240.03" y="12.7" size="2.1844" layer="97">1.3</text>
 <text x="241.3" y="6.35" size="2.1844" layer="97">A</text>
 <text x="166.37" y="6.35" size="2.1844" layer="97">Seth Neumann, Allison Dendy</text>
 <text x="27.94" y="147.32" size="1.778" layer="91">+5
@@ -2939,7 +2939,7 @@ NC2
 NO1
 COM1
 NC1</text>
-<text x="114.3" y="111.76" size="1.778" layer="91">Test pads forMicroswitch connections. 
+<text x="114.3" y="111.76" size="1.778" layer="91">Test pads for Microswitch connections. 
 Switch is normally open</text>
 </plain>
 <instances>
